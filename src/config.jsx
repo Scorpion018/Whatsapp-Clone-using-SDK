@@ -6,9 +6,9 @@
 
 
 const config = {
-  appID: '201980d2a574ef67',
-  apiKey: '24a9ae5ea0a7d726f0676f75688f2fe3b25671ff',
-  region:'eu'
+  appID: '20295314a2565104',
+  apiKey: '63ddc721d7a76354883ab9e2736af36b934c6edb',
+  region: 'us'
 };
 
 export default config;
